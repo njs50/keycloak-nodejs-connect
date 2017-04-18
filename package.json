@@ -33,7 +33,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "keycloak-auth-utils": "3.0.0"
+    "keycloak-auth-utils": "njs50/keycloak-nodejs-auth-utils#update-promises"
   },
   "bundledDependencies": [
     "keycloak-auth-utils"
